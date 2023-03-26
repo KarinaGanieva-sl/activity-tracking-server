@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="activitytracking@db.infostrategic.com [4]" uuid="620696d5-90e7-47e8-9eba-4eb548458c28">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://db.infostrategic.com:5432/activitytracking</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="activitytracking@db.infostrategic.com" uuid="627cebe0-2223-45c6-84fc-6cbd09f3684c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://db.infostrategic.com:5432/activitytracking</jdbc-url>
+    </data-source>
+  </component>
+</project>
